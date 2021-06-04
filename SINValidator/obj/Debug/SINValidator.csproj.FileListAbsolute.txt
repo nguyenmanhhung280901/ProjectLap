@@ -1,0 +1,6 @@
+C:\Users\nguyenhung\RiderProjects\Lap2_C_T2009A_NGUYENMANHHUNG\SINValidator\bin\Debug\SINValidator.exe
+C:\Users\nguyenhung\RiderProjects\Lap2_C_T2009A_NGUYENMANHHUNG\SINValidator\bin\Debug\SINValidator.pdb
+C:\Users\nguyenhung\RiderProjects\Lap2_C_T2009A_NGUYENMANHHUNG\SINValidator\obj\Debug\SINValidator.csprojAssemblyReference.cache
+C:\Users\nguyenhung\RiderProjects\Lap2_C_T2009A_NGUYENMANHHUNG\SINValidator\obj\Debug\SINValidator.csproj.CoreCompileInputs.cache
+C:\Users\nguyenhung\RiderProjects\Lap2_C_T2009A_NGUYENMANHHUNG\SINValidator\obj\Debug\SINValidator.exe
+C:\Users\nguyenhung\RiderProjects\Lap2_C_T2009A_NGUYENMANHHUNG\SINValidator\obj\Debug\SINValidator.pdb

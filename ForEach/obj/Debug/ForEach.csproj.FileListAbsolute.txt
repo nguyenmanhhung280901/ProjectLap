@@ -1,0 +1,6 @@
+C:\Users\nguyenhung\RiderProjects\Lap2_C_T2009A_NGUYENMANHHUNG\ForEach\bin\Debug\ForEach.exe
+C:\Users\nguyenhung\RiderProjects\Lap2_C_T2009A_NGUYENMANHHUNG\ForEach\bin\Debug\ForEach.pdb
+C:\Users\nguyenhung\RiderProjects\Lap2_C_T2009A_NGUYENMANHHUNG\ForEach\obj\Debug\ForEach.csprojAssemblyReference.cache
+C:\Users\nguyenhung\RiderProjects\Lap2_C_T2009A_NGUYENMANHHUNG\ForEach\obj\Debug\ForEach.csproj.CoreCompileInputs.cache
+C:\Users\nguyenhung\RiderProjects\Lap2_C_T2009A_NGUYENMANHHUNG\ForEach\obj\Debug\ForEach.exe
+C:\Users\nguyenhung\RiderProjects\Lap2_C_T2009A_NGUYENMANHHUNG\ForEach\obj\Debug\ForEach.pdb
